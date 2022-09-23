@@ -33,3 +33,27 @@
 
 ## 캐릭터
 
+### 1. 주인공(해파리)
+
+![image](https://user-images.githubusercontent.com/95104793/191935184-2e6e4c5c-6664-4e6b-a936-c68c9a7ffdc6.png)
+
+
+독침을 발사하여 적 공격
+
+### 2. 공룡
+
+![image](https://user-images.githubusercontent.com/95104793/191935222-bb930af4-64f8-463a-a48f-48c13592173d.png)
+
+1,2 단계 몬스터
+
+### 3. 전갈
+
+![image](https://user-images.githubusercontent.com/95104793/191935297-29bcb6c3-796c-4bce-a639-82ed678848ac.png)
+
+3,4 단계 몬스터
+
+### 4. 세균맨(보스)
+
+![image](https://user-images.githubusercontent.com/95104793/191935379-7a6fb011-d72b-470a-a346-ca99d17e1d5b.png)
+
+보스 몬스터. 위아래 랜덤으로 이동하며 총 8대를 맞추어야 클리어
